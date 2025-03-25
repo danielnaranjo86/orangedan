@@ -11,6 +11,14 @@ section{
     background-color:azure;
 }
 
+section{
+    margin: 5em;/*
+    display: grid;
+    grid-template-columns: 100px 100px 110px;
+    grid-template-rows: 100px 2000px 50px;
+    grid-auto-rows: 150px;*/
+}
+
 table th,
 table td {
     padding: 0.3em 1em;
